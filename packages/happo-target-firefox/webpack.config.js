@@ -1,5 +1,6 @@
 module.exports = {
   entry: {
+    FirefoxTarget: './src/index.js',
     HappoRunner: './src/HappoRunner.js',
     HappoDebug: './src/HappoDebug.jsx',
   },

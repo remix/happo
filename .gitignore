@@ -1,5 +1,4 @@
 packages/happo-example-project/snapshots
-lib
 node_modules
 packages/*/public/*.bundle.*
 packages/*/public/*.worker.*
